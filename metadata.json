@@ -1,0 +1,6 @@
+{
+  "name": "RideNear",
+  "description": "Peer-to-peer vehicle sharing marketplace to rent bicycles, e-bikes, scooters, and cars directly from verified neighbors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
